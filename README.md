@@ -1,6 +1,7 @@
 # flutter_instagram
 mobil programlama ödevi
 @keyvanarasteh
+Kodlar Master bölümünde yer alıyor.
 
 
 ![zzzzz](https://github.com/erenyurtsizoglu/flutter_instagram/assets/149562272/da2fa6af-d223-42d0-adeb-21bb070ece35)
