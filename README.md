@@ -1,16 +1,8 @@
 # instagram_app
 
 A new Flutter project.
+@keyvanarasteh
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![zzzzz](https://github.com/erenyurtsizoglu/flutter_instagram/assets/149562272/da2fa6af-d223-42d0-adeb-21bb070ece35)
+![zzzz](https://github.com/erenyurtsizoglu/flutter_instagram/assets/149562272/7f927f05-72b0-48b5-806d-1fd8105bdafc)
